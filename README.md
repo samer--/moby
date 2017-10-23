@@ -35,6 +35,9 @@ Editorial decisions
 - Replace 'Z' in French words with '/Z/'
 - End 'chutspah' with 'tsp/@/' not 'tzp/@/'
 - Replace 'g' in some German words (eg 'Zug') with 'k'
+- Replace 'S' with 's' everywhere, there is no need for a distinction
+- Replace 'W' with 'w' everywhere, there is no need for a distinction
+- Replace many 'V' with 'v'
 
 Documentation
 
