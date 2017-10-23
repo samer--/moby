@@ -53,5 +53,6 @@ Remaining questions
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
   German is just "ts". Also, many uses of "e" in French words.
 - American vs English pronunciations, esp, eg "Bob": "b/O/b" or "b/A/b"?
+- "V" is sometimes Spanish β (like "b") but sometimes Dutch ʋ (like "w")
 
 - Pronuciation of grass, glass, plant etc: /A/ or /&/?
