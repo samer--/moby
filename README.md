@@ -51,4 +51,7 @@ Remaining questions
 - What about several symbols used in non-English words which are (a) not
   described in the original documentation, and (b) are already encoded by
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
-  German is just "ts".
+  German is just "ts". Also, many uses of "e" in French words.
+- American vs English pronunciations, esp, eg "Bob": "b/O/b" or "b/A/b"?
+
+- Pronuciation of grass, glass, plant etc: /A/ or /&/?
