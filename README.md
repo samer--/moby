@@ -46,3 +46,9 @@ Remaining questions
 - Should 'Cipriano' begin with 's' or 'tS' (Italian pronunciation)?
 - What does /z/ mean? German or Italian sound? If so, it should be 'ts'.
 - When should /-/ be used instead of /@/?
+- A few other issues and inconsistencies concerning non-English words.
+- Inconsistent use of optional /@/ in some words, eg 'operative' and related words.
+- What about several symbols used in non-English words which are (a) not
+  described in the original documentation, and (b) are already encoded by
+  existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
+  German is just "ts".
