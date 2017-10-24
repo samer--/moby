@@ -35,7 +35,7 @@ Errors
 
 Editorial decisions
 
-- Replace 'feR' in French 'affaire...' with 'f/E/R'
+- Replace many 'e' in French words with '/E/'
 - Replace 'Z' in French words with 'z'
 - End 'chutspah' with 'tsp/@/' not 'tzp/@/'
 - Replace 'g' in some German words (eg 'Zug') with 'k'
@@ -46,7 +46,7 @@ Editorial decisions
 Documentation
 
 - Document phonemes used in database but not mentioned in readme
-- Explain use of '(/@/)' as optional phoneme.
+- Explain use of '(...)' as optional phoneme.
 
 Remaining questions
 
@@ -64,3 +64,18 @@ Remaining questions
 - Pronuciation of grass, glass, plant etc: /A/ or /&/?
 - "new": American n/u/ or English n/ju/
 - Cofounding of ɑː as in car, far vs. ɒ as in lot, clock etc, both represented as /A/
+
+Other to do
+
+- Reduce redundancy of compound words: find all cases where both parts
+  of a compound word can be correctly encoded independently, ensure the single
+  word entries exist, then delete the compound entry.
+- Swap "A" and "a", so that "a" means IPA /a/ and "A" means IPA upside-down a.
+- Use "0" instead of "y" and "y" instead of "Y"
+- Sort out /j//u/ vs /ju/
+- Simplify encoding: use j instead of /j/, x instead of /x/, S instead of /S/, Z instead of /Z/
+  E instead of /E/, I instead of /I/, D instead of /D/, maybe B instead of Spanish V, get rid of /z/
+- Sort out { /A/ /O/ /oU/ } -> { ɑː ɒ ɔː oʊ } mess.
+- Possibly use other sources to cross check: CMU dictionary (included); Oxford Dictionaries
+  API https://developer.oxforddictionaries.com; Lingorado http://lingorado.com/ipa/;
+  Words API https://www.wordsapi.com.
