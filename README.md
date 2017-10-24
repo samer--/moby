@@ -18,6 +18,7 @@ Standardisation
 - Replace 'S' with 's' everywhere, there is no difference
 - Replace 'W' with 'w' everywhere, there is no difference
 - Replace all "a" with "A", signifying IPA "a"
+- Replace all "/ju/" with more often used "/j//u/"
 
 Errors
 
