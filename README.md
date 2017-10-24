@@ -62,7 +62,6 @@ Remaining questions
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
   German is just "ts". Also, many uses of "e" in French words.
 - "V" is sometimes Spanish β (like "b") but sometimes Dutch ʋ (like "w")
-- Pronuciation of grass, glass, plant etc: /A/ or /&/?
 
 Other to do
 
@@ -71,7 +70,6 @@ Other to do
   word entries exist, then delete the compound entry.
 - Swap "A" and "a", so that "a" means IPA /a/ and "A" means IPA upside-down a.
 - Use "0" instead of "y" and "y" instead of "Y"
-- Sort out /j//u/ vs /ju/
 - Simplify encoding: use j instead of /j/, x instead of /x/, S instead of /S/, Z instead of /Z/
   E instead of /E/, I instead of /I/, D instead of /D/, maybe B instead of Spanish V, get rid of /z/
 - Possibly use other sources to cross check: CMU dictionary (included); Oxford Dictionaries
