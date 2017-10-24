@@ -28,16 +28,19 @@ Errors
 - Remove parenthetical comments mistakenly included in phonetic encoding
 - Remove some non-ascii characters and replace with best guess
 - Replace double slashed '//Oi//' with '/Oi/'
+- Fix many wrong usages of bare vowels like "a", "u", "i" with correct phoneme
 
 Editorial decisions
 
 - Replace 'feR' in French 'affaire...' with 'f/E/R'
-- Replace 'Z' in French words with '/Z/'
+- Replace 'Z' in French words with 'z'
 - End 'chutspah' with 'tsp/@/' not 'tzp/@/'
 - Replace 'g' in some German words (eg 'Zug') with 'k'
 - Replace 'S' with 's' everywhere, there is no need for a distinction
 - Replace 'W' with 'w' everywhere, there is no need for a distinction
 - Replace many 'V' with 'v'
+- Replace all "a" with "A", signifying IPA "a"
+- Encode French ɛ̃ as in "point" as "/E/N" instead of "aN"
 
 Documentation
 
@@ -55,7 +58,10 @@ Remaining questions
   described in the original documentation, and (b) are already encoded by
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
   German is just "ts". Also, many uses of "e" in French words.
-- American vs English pronunciations, esp, eg "Bob": "b/O/b" or "b/A/b"?
+- American vs English pronunciations, eg "what": "w/A/t" vs "hw/@/t"
+
 - "V" is sometimes Spanish β (like "b") but sometimes Dutch ʋ (like "w")
 
 - Pronuciation of grass, glass, plant etc: /A/ or /&/?
+- "new": American n/u/ or English n/ju/
+- Cofounding of ɑː as in car, far vs. ɒ as in lot, clock etc, both represented as /A/
