@@ -32,6 +32,7 @@ Errors
 - Remove some non-ascii characters and replace with best guess
 - Replace double slashed '//Oi//' with '/Oi/'
 - Fix many wrong usages of bare vowels like "a", "u", "i" with correct phoneme
+- Replace all instances of "/oU/r" with "/O/r" (rhymes with "score", "north" etc)
 
 Editorial decisions
 
@@ -59,11 +60,8 @@ Remaining questions
   described in the original documentation, and (b) are already encoded by
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
   German is just "ts". Also, many uses of "e" in French words.
-- American vs English pronunciations, eg "what": "w/A/t" vs "hw/@/t"
 - "V" is sometimes Spanish β (like "b") but sometimes Dutch ʋ (like "w")
 - Pronuciation of grass, glass, plant etc: /A/ or /&/?
-- "new": American n/u/ or English n/ju/
-- Cofounding of ɑː as in car, far vs. ɒ as in lot, clock etc, both represented as /A/
 
 Other to do
 
@@ -75,7 +73,6 @@ Other to do
 - Sort out /j//u/ vs /ju/
 - Simplify encoding: use j instead of /j/, x instead of /x/, S instead of /S/, Z instead of /Z/
   E instead of /E/, I instead of /I/, D instead of /D/, maybe B instead of Spanish V, get rid of /z/
-- Sort out { /A/ /O/ /oU/ } -> { ɑː ɒ ɔː oʊ } mess.
 - Possibly use other sources to cross check: CMU dictionary (included); Oxford Dictionaries
   API https://developer.oxforddictionaries.com; Lingorado http://lingorado.com/ipa/;
   Words API https://www.wordsapi.com.
