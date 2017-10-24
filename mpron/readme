@@ -59,55 +59,59 @@ pronunciation field is denoted with underbar "_".
 Phonemes that are sometimes omitted during speech are written between
 parentheses, eg "(/@/)" is an optional "/@/".
 
-/&/     sounds like the "a" in "dab"
-/(@)/   sounds like the "a" in "air"
-/A/     sounds like the "a" in "far"
-/eI/    sounds like the "a" in "day"
-/@/     sounds like the "a" in "ado"
-        or the glide "e" in "system" (dipthong schwa)
-/-/     sounds like the "ir" glide in "tire"
-        or the  "dl" glide in "handle"
-        or the "den" glide in "sodden" (dipthong little schwa)
-b       sounds like the "b" in "nab"
-/tS/    sounds like the "ch" in "ouch"
-d       sounds like the "d" in "pod"
-/E/     sounds like the "e" in "red"
-/i/     sounds like the "e" in "see"
-f       sounds like the "f" in "elf"
-g       sounds like the "g" in "fig"
-h       sounds like the "h" in "had"
-hw      sounds like the "w" in "white"
-/I/     sounds like the "i" in "hid"
-/aI/    sounds like the "i" in "ice"
-/dZ/    sounds like the "g" in "vegetably"
-k       sounds like the "c" in "act"
-l       sounds like the "l" in "ail"
-m       sounds like the "m" in "aim"
-/N/     sounds like the "ng" in "bang"
-/n/     sounds like the "n" in "and"
-/Oi/    sounds like the "oi" in "oil"
-/A/     sounds like the "o" in "bob"
-/AU/    sounds like the "ow" in "how"
-/O/     sounds like the "o" in "dog"
-/oU/    sounds like the "o" in "boat" [or "o" in "score" when followed by "r". SA]
-/u/     sounds like the "oo" in "too"
-/U/     sounds like the "oo" in "book"
-p       sounds like the "p" in "imp"
-r       sounds like the "r" in "ire"
-/S/     sounds like the "sh" in "she"
-s       sounds like the "s" in "sip"
-/T/     sounds like the "th" in "bath"
-/D/     sounds like the "th" in "the"
-t       sounds like the "t" in "tap"
-/@/     sounds like the "u" in "cup"
-/@r/    sounds like the "u" in "burn"
-/[@]/   sounds like the "u" in "burn" [always used instead of /@r/. SA]
-v       sounds like the "v" in "average"
-w       sounds like the "w" in "win"
-/j/     sounds like the "y" in "you"
-/ju/    sounds like the "u" in "cute" [sometimes used instead of /j//u/. SA]
-/Z/     sounds like the "s" in "vision"
-z       sounds like the "z" in "zoo"
+ASCII   IPA     Example
+
+/&/     æ      sounds like the "a" in "dab"
+/(@)/   ɛə ɛː  sounds like the "a" in "air"
+/A/     ɑː     sounds like the "a" in "far"
+/A/     ɒ      sounds like the "o" in "clock" or "bob"
+/eI/    eɪ     sounds like the "a" in "day"
+/@/     ə      sounds like the "a" in "ado"
+               or the glide "e" in "system" (dipthong schwa)
+/-/     ə      sounds like the "ir" glide in "tire"
+					or the  "dl" glide in "handle"
+					or the "den" glide in "sodden" (dipthong little schwa)
+b       b      sounds like the "b" in "nab"
+/tS/    tʃ     sounds like the "ch" in "ouch"
+d       d      sounds like the "d" in "pod"
+/E/     ɛ      sounds like the "e" in "red"
+/i/     iː     sounds like the "e" in "see"
+f       f      sounds like the "f" in "elf"
+g       g      sounds like the "g" in "fig"
+h       h      sounds like the "h" in "had"
+hw      hw     sounds like the "w" in "white"
+/I/     ɪ      sounds like the "i" in "hid"
+/aI/    aɪ     sounds like the "i" in "ice"
+/dZ/    dʒ     sounds like the "g" in "vegetably"
+k       k      sounds like the "c" in "act"
+l       l      sounds like the "l" in "ail"
+m       m      sounds like the "m" in "aim"
+/N/     ŋ      sounds like the "ng" in "bang"
+/n/     n      sounds like the "n" in "and"
+/Oi/    ɔɪ     sounds like the "oi" in "oil"
+/AU/    aʊ     sounds like the "ow" in "how"
+/O/     ɒ      sounds like the "o" in "dog"
+/O/     ɔː     sounds like the "a" in "dawn", the "o" in "north"
+/oU/    oʊ     sounds like the "o" in "boat"
+/oU/    ɔː     sounds like the "o" in "score" when followed by "r".
+/u/     uː     sounds like the "oo" in "too"
+/U/     ʊ      sounds like the "oo" in "book"
+p       p      sounds like the "p" in "imp"
+r       p      sounds like the "r" in "ire"
+/S/     ʃ      sounds like the "sh" in "she"
+s       s      sounds like the "s" in "sip"
+/T/     θ      sounds like the "th" in "bath"
+/D/     ð      sounds like the "th" in "the"
+t       t      sounds like the "t" in "tap"
+/@/     ʌ ə    sounds like the "u" in "cup"
+/@r/    ɜːr    sounds like the "u" in "burn"
+/[@]/   ɜː     sounds like the "u" in "burn" [followed by "r", always used instead of /@r/. SA]
+v       v      sounds like the "v" in "average"
+w       w      sounds like the "w" in "win"
+/j/     j      sounds like the "y" in "you"
+/ju/    juː    sounds like the "u" in "cute" [sometimes used instead of /j//u/. SA]
+/Z/     ʒ      sounds like the "s" in "vision"
+z       z      sounds like the "z" in "zoo"
 
 Stress or emphasis is marked in the data with the primary "'" or
 secondary "," marks: "'" (uncurled apostrophe) marks primary
@@ -115,23 +119,24 @@ stress"," (comma) marks secondary stress. Moby Pronunciator
 contains many common names and phrases borrowed from
 other languages; special sounds include (case is significant):
 
-A    sounds like the "a" in "ami"
-N    sounds like the "n" in "Francoise"
-R    sounds like the "r" in "Der"
-/x/  sounds like the "ch" in "Bach"
-/y/  sounds like the "eu" in "cordon bleu"
-Y    sounds like the "u" in "Dubois"
+A       a      sounds like the "a" in "ami"
+N       ~      sounds like the "n" in "Francoise" (adds nasalisation to preceeding vowel)
+R       ʁ      sounds like the "r" in "Der", "r" in French
+/x/     x      sounds like the "ch" in "Bach"
+/y/     ø      sounds like the "eu" in "cordon bleu"
+Y       y      sounds like the "u" in "Dubois" or French "nature"
 
 Extra symbols used in non-English words [SA]
 
-e    IPA "e", as in French "chez", "aller"
-i    IPA "i", short version of "/i/"
-o    IPA "o"
-u    IPA "u"
-O    [Not sure what this is meant to be.]
-V    [Sometimes Spanish v-b, sometimes Dutch v-w.]
-/OE/ Germanic o-umlaut
-/z/  Sometimes used instead of "z" in German or Italian, sounds like 'ts'
+e       e      French "chez", "aller"
+i       i      short version of "/i/"
+o       o
+u       u
+O             Not sure what this is meant to be.
+V       β     Spanish "v", halfway to "b"
+V       ʋ     Dutch "v", halfway to "w"
+/OE/    œ     Germanic o-umlaut
+/z/     ts    Sometimes used instead of "z" in German or Italian
 
 Words and Phrases adopted from languages other than English
 have the unaccented form of the roman spelling. For example,

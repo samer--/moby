@@ -15,6 +15,9 @@ Standardisation
 
 - Change all line endings to Unix standard (single CR, 0x0a)
 - Remove trailing white space from all lines
+- Replace 'S' with 's' everywhere, there is no difference
+- Replace 'W' with 'w' everywhere, there is no difference
+- Replace all "a" with "A", signifying IPA "a"
 
 Errors
 
@@ -36,10 +39,7 @@ Editorial decisions
 - Replace 'Z' in French words with 'z'
 - End 'chutspah' with 'tsp/@/' not 'tzp/@/'
 - Replace 'g' in some German words (eg 'Zug') with 'k'
-- Replace 'S' with 's' everywhere, there is no need for a distinction
-- Replace 'W' with 'w' everywhere, there is no need for a distinction
 - Replace many 'V' with 'v'
-- Replace all "a" with "A", signifying IPA "a"
 - Encode French ɛ̃ as in "point" as "/E/N" instead of "aN"
 
 Documentation
@@ -59,9 +59,7 @@ Remaining questions
   existing symbols? Eg, "S" in some French words is just "s", and "/z/" in
   German is just "ts". Also, many uses of "e" in French words.
 - American vs English pronunciations, eg "what": "w/A/t" vs "hw/@/t"
-
 - "V" is sometimes Spanish β (like "b") but sometimes Dutch ʋ (like "w")
-
 - Pronuciation of grass, glass, plant etc: /A/ or /&/?
 - "new": American n/u/ or English n/ju/
 - Cofounding of ɑː as in car, far vs. ɒ as in lot, clock etc, both represented as /A/
