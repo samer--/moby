@@ -41,6 +41,7 @@ Editorial decisions
 - Replace 'g' in some German words (eg 'Zug') with 'k'
 - Replace many 'V' with 'v'
 - Encode French ɛ̃ as in "point" as "/E/N" instead of "aN"
+- Remove all "O" and replace with appropriate phoneme
 
 Documentation
 
